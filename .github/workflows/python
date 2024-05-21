@@ -1,0 +1,1 @@
+pip install pytrends requests beautifulsoup4 matplotlib pandas
